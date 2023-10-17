@@ -1,0 +1,7 @@
+[17916:5980:0814/084754.990:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 115.0.5790.171 (not a warning)
+[17916:5980:0814/084755.164:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[17916:5980:0814/084755.164:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[17916:5980:0814/084756.236:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[17916:5980:0814/084756.875:INFO:CONSOLE(43)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (43)
+[17916:5980:0814/084807.484:INFO:CONSOLE(43)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (43)
+[17916:5980:0814/084807.487:INFO:CONSOLE(43)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (43)
